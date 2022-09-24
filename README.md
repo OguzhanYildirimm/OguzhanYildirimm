@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oguzhan </h1>
 <h2 align="center">Mobile and Web Developer from Turkey 🇹🇷</h2>
-<h1 align="center"><img height="250" src="https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif"></h1>
+<h1 align="center"><img width="512" src="https://media.giphy.com/media/7XuzvVcyCheHPsaIlI/giphy.gif"></h1>
 
 
 - 🔭 I’m currently working on Mobile & Web Development
