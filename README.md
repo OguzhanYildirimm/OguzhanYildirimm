@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oguzhan </h1>
-<h2 align="center">Mobile and Web Developer from Turkey 🇹🇷</h2>
+<h2 align="center">Mobile Developer from Turkey 🇹🇷</h2>
 <h1 align="center"><img width="512" src="https://media.giphy.com/media/7XuzvVcyCheHPsaIlI/giphy.gif"></h1>
 
 
