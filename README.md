@@ -15,9 +15,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40"/> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="swift" width="40" height="40"/> 
   </a>  
-   </a> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="c" width="40" height="40"/> 
-  </a>
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> 
   </a> 
     <img src="https://cdn-icons-png.flaticon.com/512/906/906308.png" alt="windows" width="40" height="40"/> 
