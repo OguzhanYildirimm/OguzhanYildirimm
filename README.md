@@ -16,9 +16,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="swift" width="40" height="40"/> 
   </a>  
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> 
-  </a> 
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906308.png" alt="windows" width="40" height="40"/> 
-  </a> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/> 
     
   </a>
