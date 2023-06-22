@@ -3,7 +3,7 @@
 <h1 align="center"><img width="512" src="https://media.giphy.com/media/7XuzvVcyCheHPsaIlI/giphy.gif"></h1>
 
 
-- 🔭 I’m currently working on Mobile & Web Development
+- 🔭 I’m currently working on Mobile Development
 - 💬 Ask me about anything [here](oguzhany1337@gmail.com)
 
 
